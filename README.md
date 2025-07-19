@@ -1,6 +1,18 @@
+<div align="center" width="50">
+
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
+
 🎓 BCA Student | 💻 Linux Enthusiast | 🌐 Front-End Developer | 🔧 Learning C & C++
+
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/6q4c1vPRZREh7nw3wG7Ixz?si=94de5e064c894a95) <br>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6q4c1vPRZREh7nw3wG7Ixz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+</details>
 
 ## 🚀 Skills
 - **Languages**: C, C++, JavaScript, HTML5, CSS3
@@ -29,3 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</div>
