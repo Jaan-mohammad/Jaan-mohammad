@@ -22,11 +22,8 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 <details>
 <summary><strong>🎧 Currently Vibing To:</strong></summary>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b?si=123456" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vu7trsl6gzqtxwnbdg2hggp7dm&cover_image=true&theme=novatorem&bar_color=9e768f&bar_color_cover=false" alt="spotify now playing" width="320" />
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vbrrmuh2yhjhscxu7sjveejvdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 </details>
 
