@@ -1,41 +1,42 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> welcome! </h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Jaan+Mohammad;Tech+guy" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=25&duration=4500&pause=500&color=0047AB&width=435&lines=Hello%2C+it's+Jaan+Mohammad;Tech+Guy" alt="Typing SVG"/>
 </a>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="20%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="30%"/><br>
+
 ---
 
-### 🧑‍💻 About Me
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-I'm a passionate BCA student diving into the world of tech. I began my journey exploring front-end development with HTML, CSS, and JavaScript, and even though I paused for a while, my curiosity never stopped.
+A BCA student diving into the world of tech. I began my journey exploring front-end development with HTML, CSS, and JavaScript, and even though I paused for a while, my curiosity never stopped.
 
-Now I'm more focused on Linux systems and learning the inner workings of computer networking. I enjoy tinkering with distros, working in the terminal, and understanding how things connect on the web.
-
-> 💡 Always curious, always learning — one command, one concept at a time.
+Now I'm more focused on Linux systems and learning the inner workings of computer networking.
 
 ---
 
 <details>
 <summary><strong>🎧 Currently Vibing To:</strong></summary>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vbrrmuh2yhjhscxu7sjveejvdy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vbrrmuh2yhjhscxu7sjveejvdy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6)
+
 
 
 </details>
 
 ---
 
-### 🛠️ Skills:
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,git,github,postgres,mysql,java,js,nodejs,linux,arch,ubuntu,vm)](https://skillicons.dev)
 
 ---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**Github Stats**
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
 <table align="center">
@@ -53,9 +54,10 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 
 ---
 
-### 📈 Visitors Count
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jaan-mohammad&label=Profile%20views&color=0e75b6&style=flat" alt="jaan-mohammad" />
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
 </p>
 
 ---
@@ -69,4 +71,4 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
