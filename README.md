@@ -56,7 +56,7 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 
 <p align="center">
   <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=Jaan-mohammad&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
 
