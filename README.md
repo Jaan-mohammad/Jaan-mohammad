@@ -31,7 +31,7 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,git,github,postgres,mysql,js,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,c,cpp,git,github,postgres,mysql,linux,)](https://skillicons.dev)
 
 ---
 
@@ -68,7 +68,5 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 <a href="https://fb.com/jaan.mohammad.123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaan mohammad" height="30" width="40" /></a>
 <a href="https://instagram.com/jaan_mohammad_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaan_mohammad_00" height="30" width="40" /></a>
 </p>
-
----
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
