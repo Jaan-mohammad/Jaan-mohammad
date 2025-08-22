@@ -3,7 +3,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> welcome! </h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=25&duration=4500&pause=500&color=0047AB&width=435&lines=Hello%2C+it's+Jaan+Mohammad;Tech+Guy" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=25&duration=4500&pause=500&color=0047AB&width=435&lines=Hello%2C+it's+Jaan+Mohammad;Tech+-+Guy" alt="Typing SVG"/>
 </a>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="30%"/><br>
@@ -12,7 +12,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-A BCA student diving into the world of tech. I began my journey exploring front-end development with HTML, CSS, JavaScript etc.
+A BCA student diving into the world of tech. I began my journey exploring front-end development with HTML, CSS, JavaScript etc.<br>
 Now I'm more focused on Linux systems and learning the inner workings of computer networking.
 
 ---
