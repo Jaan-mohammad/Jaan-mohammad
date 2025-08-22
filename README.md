@@ -12,8 +12,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-A BCA student diving into the world of tech. I began my journey exploring front-end development with HTML, CSS, and JavaScript, and even though I paused for a while, my curiosity never stopped.
-
+A BCA student diving into the world of tech. I began my journey exploring front-end development with HTML, CSS, JavaScript etc.
 Now I'm more focused on Linux systems and learning the inner workings of computer networking.
 
 ---
