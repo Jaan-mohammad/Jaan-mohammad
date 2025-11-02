@@ -63,9 +63,16 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 
 ### 🌍 Connect with me!
 <p align="left">
-<a href="https://linkedin.com/in/jaan-jaan-mohammad-a43448390" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaan-mohammad" height="30" width="40" /></a>
-<a href="https://fb.com/jaan.mohammad.123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaan mohammad" height="30" width="40" /></a>
-<a href="https://instagram.com/jaan_mohammad_00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaan_mohammad_00" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jaan-jaan-mohammad-a43448390" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaan-mohammad" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/jaan.mohammad.123" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaan mohammad" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jaan_mohammad_00" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaan_mohammad_00" height="30" width="40" />
+  </a>
 </p>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
