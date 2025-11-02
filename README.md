@@ -3,7 +3,7 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> welcome! </h2>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=25&duration=4500&pause=500&color=0047AB&width=435&lines=Hello%2C+it's+Jaan+Mohammad;Tech+-+Guy" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik&weight=500&size=25&duration=4500&pause=500&color=0047AB&width=435&lines=Hello%2C+it's+Jaan+Mohammad;Just+a+Tech." alt="Typing SVG"/>
 </a>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="30%"/><br>
@@ -63,7 +63,7 @@ Now I'm more focused on Linux systems and learning the inner workings of compute
 
 ### 🌍 Connect with me!
 <p align="left">
-<a href="https://linkedin.com/in/jaan-mohammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaan-mohammad" height="30" width="40" /></a>
+<a href="linkedin.com/in/jaan-jaan-mohammad-a43448390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaan-mohammad" height="30" width="40" /></a>
 <a href="https://fb.com/jaan.mohammad.123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaan mohammad" height="30" width="40" /></a>
 <a href="https://instagram.com/jaan_mohammad_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaan_mohammad_00" height="30" width="40" /></a>
 </p>
